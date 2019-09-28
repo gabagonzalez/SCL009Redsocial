@@ -1,0 +1,28 @@
+{
+  "name": "scl009redsocial",
+  "version": "1.0.0",
+  "description": "red social",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest --coverage",
+    "eslint": "eslint --ext.js src/test/",
+    "htmlhint": "htmlhint src/*html",
+    "pretest": "npm run eslint && npm run htmlhint",
+    "deploy": " gh-pages -d src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabagonzalez/SCL009Redsocial.git"
+  },
+  "keywords": [
+    "red",
+    "social",
+    "metro"
+  ],
+  "author": "ggonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabagonzalez/SCL009Redsocial/issues"
+  },
+  "homepage": "https://github.com/gabagonzalez/SCL009Redsocial#readme"
+}
