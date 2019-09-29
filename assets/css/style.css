@@ -1,0 +1,284 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+/* style body  */
+body {
+  margin: 0;
+  color:#f2f2f2;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+/* style container root */
+.root {
+  width: 90%;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  margin-top:0;
+  margin-bottom: 8%;
+  padding: 2%;
+  flex-direction:column;
+}
+
+/* ------------------------------------------------ */
+
+/* div class home */
+.flexbox-item {
+  max-width: 85%;
+  background:#fff;
+  justify-content: center;
+}
+
+/* container img header */
+.demo-header {
+  width: 100%;
+  margin-bottom: 2%;
+  margin-top: 2%;
+  background: #fff;
+  text-align: center;
+}
+
+/* div img --> registre and login  */
+.demo-header img {
+ max-width: 275px;
+ text-align: center;
+}
+
+/* ------------------------------------------------ */
+
+/* container h3 title  --> registre and login */
+.paragraph-home {
+  margin-bottom: 20%;
+  margin-top: 35%;
+  background: #fff;
+  text-align: center;
+} 
+/* style paragraph home */
+.welcome-home {
+
+  font-size: 22px;
+  color: #34495E;
+}
+
+.paragraph-registre {
+  font-size: 22px;
+  text-align: center;
+  color:#34495E;
+  font-weight: normal;
+ }
+
+ .paragraph-login {
+
+  text-align: center;
+  color:#34495E;
+  margin-top: 10%;
+  font-size: 22px;
+  font-weight: normal;
+
+ }
+
+ /* ------------------------------------------------ */
+
+/* container button " registrar "  --> registre  */
+.container-button-red {
+ 
+  margin-top: 4%;
+  background: #fff;
+  text-align: center;
+} 
+
+/* container button "google"  --> registre  */
+.container-button-blue {
+  
+  margin-top: 6%;
+  background: #fff;
+  margin-bottom: 10%;
+  text-align: center;
+} 
+
+/* ------------------------------------------------ */
+
+/* style button registrar and login Home  */
+.btn-red  {
+  margin-bottom: 5%;
+  color: white;
+  /* margin-top: 5%; */
+  align-items: center;
+  border-radius: 2%;
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(202, 60, 60);
+  /* this is a maroon */
+  height: 40px;
+  width: 80%;
+  font-size: 100%;
+  
+}
+.btn-blue {
+  width:80%;
+  height: 40px;
+  text-align: center;
+  cursor: pointer;
+  color: rgb(29, 47, 105);
+  /* margin-top: 5%; */
+  padding: 10px 50px;
+  border: 30px;
+  border-radius: 2%;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin-bottom: 10px;
+  background: url('https://img.icons8.com/dusk/2x/google-logo.png') 15px 8px no-repeat;
+  background-size: 25px;
+  background-color: rgb(45, 162, 230);
+}
+
+/* ---------------------------------------------------------------------------------------------- */
+
+ .form-registre {
+  margin-top: 5%;
+  display: flex;
+  width: 80%;
+  max-width: 400px; 
+  background:#D4E6F1;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+
+}
+
+.form-login {
+  max-width: 400px; 
+  text-align: center;
+  margin-top: 5%;
+  display: flex;
+  width: 80%;
+  background: #d4e6f1;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+}
+
+/* ---------------------------------------------------------------------------------------------- */
+.input-field {
+  margin-top: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 80%;
+  height: 2.5em;
+  border:0;border-bottom:1px solid #34495E;  
+  /* text-align: center; */
+}
+/* ---------------------------------------------------------------------------------------------- */
+.back {
+  width: 60px;
+  height: 43px;
+  background:transparent;
+  background-image:url('https://img.icons8.com/cotton/2x/circled-left--v1.png');
+  background-size:40px;
+  background-repeat:no-repeat;
+  border: none;
+  margin-top: 10px;
+} 
+
+/* ---------------------------------------------------------------------------------------------- */
+table tr th,
+table tr td {
+  padding: 0.5625em 0.625em;
+  font-size: 0.875em;
+  color: #222222;
+  border: 1px solid #5de4cd;
+  align-items: center;
+  margin-top: 10%;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+table tr.even,
+table tr.alt,
+table tr:nth-of-type(even) {
+  background: #27f0d54d;
+  align-items: center;
+  margin-top: 10%;
+  
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+
+.paraghaphName{
+  color:#000;
+}
+
+
+/*************************************/
+
+.welcome-muro {
+  margin-top: 5%;
+  font-size: 18px;
+  color: rgb(62, 102, 143);
+  text-align: center;
+
+}
+.btn-create2 {
+  margin-bottom: 5%;
+  color: white;
+  margin-top: 5%; 
+  align-items: center;
+  border-radius: 2%;
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(202, 60, 60);
+  /* this is a maroon */
+  height: 20px;
+  
+  font-size: 80%;
+  
+}
+.resp {
+  height: 100px;
+  width: 80%;
+  margin-left: 20%;
+  margin-right: 30%;
+
+}
+
+.event-list{
+  text-align: center;
+  padding: 2%;
+  background: #d4e6f1;
+}
+
+.columna {
+  width:80%;
+  float:left;
+  height: 100px;
+}
+
+@media (max-width: 250px) {
+  
+  .columna {
+    width:auto;
+    float:none;
+  }
+  
+}
+
+.items {
+  width:10%;
+  float:left;
+}
+
+@media (max-width: 50px) {
+  
+  .columna {
+    width:auto;
+    float:none;
+  }
+  
+}
