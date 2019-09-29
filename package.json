@@ -1,8 +1,11 @@
 {
   "name": "scl009redsocial",
   "version": "1.0.0",
-  "description": "red social",
+  "description": "Red social \" a un metro\"",
   "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "jest --coverage",
     "eslint": "eslint --ext .js src/ test/",
@@ -15,11 +18,14 @@
     "url": "git+https://github.com/gabagonzalez/SCL009Redsocial.git"
   },
   "keywords": [
+    "Firebase",
     "red",
     "social",
+    "npm",
+    "test",
     "metro"
   ],
-  "author": "ggonzalez",
+  "author": "Gabriela Gonzalez, Patricia Valdebenito",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gabagonzalez/SCL009Redsocial/issues"
