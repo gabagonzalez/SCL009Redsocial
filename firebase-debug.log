@@ -1,0 +1,64 @@
+[debug] [2019-11-03T20:41:15.644Z] ----------------------------------------------------------------------
+[debug] [2019-11-03T20:41:15.647Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2019-11-03T20:41:15.648Z] CLI Version:   7.6.2
+[debug] [2019-11-03T20:41:15.648Z] Platform:      linux
+[debug] [2019-11-03T20:41:15.648Z] Node Version:  v10.16.0
+[debug] [2019-11-03T20:41:15.648Z] Time:          Sun Nov 03 2019 17:41:15 GMT-0300 (GMT-03:00)
+[debug] [2019-11-03T20:41:15.648Z] ----------------------------------------------------------------------
+[debug] [2019-11-03T20:41:15.648Z] 
+[debug] [2019-11-03T20:41:15.655Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-03T20:41:15.655Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/laboratoriad172/Documentos/GGonzalez/SCL009Redsocial
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using scl009redsocial.
+[debug] [2019-11-03T20:41:24.980Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-11-03T20:41:24.980Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-11-03T20:41:25.336Z] <<< HTTP RESPONSE 200
+[debug] [2019-11-03T20:41:25.346Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/scl009redsocial  
+ 
+[debug] [2019-11-03T20:41:26.818Z] <<< HTTP RESPONSE 200
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[info] i  Skipping write of public/404.html
+[debug] [2019-11-03T20:41:29.796Z] >>> HTTP REQUEST GET https://www.gstatic.com/firebasejs/releases.json  
+ 
+[debug] [2019-11-03T20:41:30.049Z] <<< HTTP RESPONSE 200
+[info] i  Skipping write of public/index.html
+[info] 
+[info] i  Writing configuration info to firebase.json...
+[info] i  Writing project information to .firebaserc...
+[info] i  Writing gitignore file to .gitignore...
+[debug] [2019-11-03T20:41:31.794Z] Error: EISDIR: illegal operation on a directory, open '/home/laboratoriad172/Documentos/GGonzalez/SCL009Redsocial/.gitignore'
+    at Object.openSync (fs.js:443:3)
+    at Object.writeFileSync (fs.js:1194:35)
+    at Config.writeProjectFile (/usr/local/lib/node_modules/firebase-tools/lib/config.js:179:8)
+    at /usr/local/lib/node_modules/firebase-tools/lib/commands/init.js:135:20
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[error] 
+[error] Error: An unexpected error has occurred.
