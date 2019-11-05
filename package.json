@@ -11,7 +11,8 @@
     "eslint": "eslint --ext .js src/ test/",
     "htmlhint": "htmlhint src/*.html",
     "pretest": "npm run eslint && npm run htmlhint",
-    "deploy": "gh-pages -d src/"
+    "deploy": "gh-pages-deploy",
+    "clean-source": "rimraf README.md src webroot package.json"
   },
   "repository": {
     "type": "git",
