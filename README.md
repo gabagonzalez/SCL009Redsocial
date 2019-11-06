@@ -1,17 +1,17 @@
-# PANORAMIX. Cultura a un Metro
-### Red Social
-![panoramix](https://i.ibb.co/S7cdXMp/logoP.png)
+<!-- # PANORAMIX. Cultura a un Metro
+### Red Social -->
+![panoramix](https://i.ibb.co/M7ssZ9x/logoPano.png)
 ----------------------------------------
-QUÉ ES? &#128559;
+#QUÉ ES? &#128559;
 -----------------------
-**PANORAMIX**
+<!-- ###PANORAMIX -->
 -----------------------
 
  Es una aplicación MOBILE , construida para facilitar la búsqueda y visualización de panoramas/eventos publicados en el Muro del Metro de Santiago, junto con otros eventos que puedan publicar usuarios que sean realizados cercanos a alguna estación de las diferentes líneas de la Red de Metro de Santiago  [PlanoRed](https://media.metrolatam.com/2019/01/22/20170323planometrored-50c29ddf7ea05903594d46b28280cc5f.jpg).
 
 
 No existe una aplicación que contenga la información contenida en los muros del metro, pero si existe el interés en el caso que existiera dicha aplicación.
-![cutura-a un Metro](https://i.ibb.co/jhJqfkQ/slogan.jpg)
+![cutura-a un Metro](https://i.ibb.co/0snVfX9/logometrr.jpg)
 
 
 ------------------------------------------
@@ -33,11 +33,11 @@ El proceso de ejecucion de PANORAMIX tiene dos metodos de ejecucion:
 2) Pizarra . ***Presencial / Grupal*** 
 
 - 1) Aplicación de [Trello](https://trello.com/b/Tdu8ckMI/red-social)
-![trello](https://i.ibb.co/8XgNBfv/trello.jpg)  
+![trello](https://i.ibb.co/L68c2MM/trello.jpg)  
 En el link dispuesto se puede visualizar la planificación y correlación de las diferentes actividades e ideas planteadas durante el proceso de edición y ejecución. Incorporados con propósitos de aprendizaje y coordinación, complementando los contenidos con las herramientas entregadas por el proyecto educativo de laboratoria.  
   
 - 2) Esquemas. Planificación.Entrevistas, Encuentas.
-![Flujo](https://i.ibb.co/nPRv08v/daily-red.jpg)  
+![Flujo](https://i.ibb.co/m5bsCS9/daily-red.jpg)  
 A través del segundo punto esquemas, se demuestra el trabajo grupal y recíproco. Y la identificación de las fases del aprendizaje por medio de proyectos.  
 
 
@@ -62,8 +62,7 @@ Durante la etapa de  investigación, se evaluó:
 
 - Imagenes representativas y contextualizacion:  
 
-![contexto visual](http://es.tinypic.com/r/2ijtgty/9)
-![contexto usuario]()
+![contexto visual](https://i.ibb.co/RSyH2SF/muro-Metro.jpg)
 
 
 ### Analisis encuestas - visualización de gráficas &#128170;
@@ -76,16 +75,16 @@ Análisis inicial:
   
   ***El alto interés en la existencia del muro y su contenido se hace evidente durante la encuentas realizadas.***
 
-![conocimiento](https://i.ibb.co/HqcLWb4/Encuesta-concimiento-del-producto.jpg)
+![conocimiento](https://i.ibb.co/yXN0mDn/Encuesta-concimiento-del-producto.jpg)
 
-![interes](https://i.ibb.co/kyZBRJj/Encuesta-interes-fomentar-la-informacion.jpg)
+![interes](https://i.ibb.co/fNT4xrm/Encuesta-interes-fomentar-la-informacion.jpg)
 
 
 ### Conclusiones y oportunidades para PANORAMIX: 
 
 1) Los usuarios no siempre alcanzan a leer la información de su interés, **quedando muchas veces con información a medias**.  
 
-![problematica1](https://i.ibb.co/NnMwkHk/Encuesta-no-leido.jpg)
+![problematica1](https://i.ibb.co/GP4hH9Z/Encuesta-no-leido.jpg)
 
 El usuario común puede visualizar unas tantas de las publiciones en el muro del metro. Este usuario al estar en una ciudad de constante movimiento y agilidad, la mayoría de las veces no logra comprender, memorizar y recordar la información que se publicita en el espacio Metro.   
 
@@ -99,10 +98,10 @@ Lo anterior es la causa-consecuencia de la NO CONCRETACIÓN en la participación
   
   En beneficio de PANORAMIX:    ***SI***  Existe el interés en el caso que existiera dicha aplicación. Obteniendo un porcentaje mayor al 85% en la población encuestada. 
 
-![problematica2](https://i.ibb.co/gjN1mtp/Encuesta-concretar-actividad.jpg)
+![problematica2](https://i.ibb.co/8YsbmjD/Encuesta-concretar-actividad.jpg)
 
 
-![interes](https://i.ibb.co/NThFxRh/Encuesta-gustaria-app.jpg)
+![interes](https://i.ibb.co/xYh2tFT/Encuesta-gustaria-app.jpg)
 
 A modo general y en base a los puntos mencionados:  
 
@@ -110,7 +109,7 @@ A modo general y en base a los puntos mencionados:
  
  Aclaración del anterior párrafo: Los usuarios en este espacio virtual PANORAMIX  les es posible publicar eventos o actividades fomentando asi las ctividades/eventos de indole gratuitos, relacionados al club Metro(que auspicia entradas) o también eventos relacionados con la ruta de las lineas del metro y metros cercanos a la actividad publicitada. 
 
-![interes](https://i.ibb.co/zxMQ4mn/Encuesta-actividades-publicadas.jpg)  
+![interes](https://i.ibb.co/7Vnb1Z3/Encuesta-actividades-publicadas.jpg)  
   
 
 
@@ -179,7 +178,7 @@ Consideraciones al finalizar los criterios de aceptacion,  realizar la definici�
 - Desplegada la app etiquetado de la versión (git tag).
 
 ## Definición del producto
-PANORAMIZ - red social
+PANORAMIX - red social
 
 Aplicación movil de impacto social, de rápido y fácil acceso, que otorga al  usuario la información de eventos y actividades de  interés en las cuales puede  concretar asistencia, masificar participación, incrementar diversidad de actividades, integrar a la comunidad y fomentar actividades grupales. 
 
@@ -197,11 +196,11 @@ Se crea bosquejo(papel y lápiz), pensando en las primeras vistas antes del ingr
 - Prototipado (sketching)
 
 
-![BajaTest](https://i.ibb.co/5nBZvnh/esquemasflujoregistre.jpg)
+![BajaTest](https://i.ibb.co/xJ668Lg/Whats-App-Image-2019-05-31-at-21-23-19.jpg)
 
 
 
-![FlujoMuro](https://i.ibb.co/ThCQYjw/flujomuro.jpg)
+![Flujo-a-Muro](https://i.ibb.co/nCSq818/2version.jpg)
 
 
 ### Iteraciones:
@@ -217,11 +216,11 @@ Durante el desarrollo del proyecto se realizaron iteraciones de:
 - Ideación
 
 
-![Prototipos2](https://i.ibb.co/jGdDWwg/2version.jpg)
-![Prototipos3](https://i.ibb.co/B4PgCWj/3version.jpg)
+![Prototipos2](https://i.ibb.co/cv3qkC6/14-LOGINscreen.jpg)
+![Prototipos3](https://i.ibb.co/yNJ30GW/3version.jpg)
 
 - Testeo e Iteración
-![Comparación](https://i.ibb.co/8P923G8/iteraciones.jpg)
+![Comparación](https://i.ibb.co/qNhntRr/iteraciones.jpg)
 
 
 
@@ -261,10 +260,9 @@ La interfaz permite al usuario:
 Visualiza los elementos a continuación que evidencian el desarrollo del producto: 
 
 
-- [Código Master](https://github.com/Patriciavaldebenito/SCL009-Social-Network/tree/master/src)
+- [GitHub](https://github.com/gabagonzalez/SCL009Redsocial)
 
-
-- [Deploy](https://patriciavaldebenito.github.io/SCL009-Social-Network/)
+- [Deploy](https://gabagonzalez.github.io/SCL009Redsocial/src/index.html)
 
 
 - [Trello](https://trello.com/b/Tdu8ckMI/red-social)
