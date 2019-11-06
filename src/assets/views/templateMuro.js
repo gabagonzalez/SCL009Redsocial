@@ -1,5 +1,5 @@
 
-  import { signOutRedSocial } from './../js/firebase_auth.js';
+  import { signOutRedSocial } from '../js/firebase_auth.js';
   import { savePostData } from '../js/firebase_data.js';
   import { getDataPost } from '../js/firebase_data.js';
 

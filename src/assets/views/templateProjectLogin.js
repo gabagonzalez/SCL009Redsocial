@@ -1,4 +1,4 @@
-import { loginGoogle } from "./../js/firebase_auth.js";
+import { loginGoogle } from "../js/firebase_auth.js";
  import { validationFormSignLoginDates } from "../controller/validation_dates.js";
  import { signLogin } from "../js/firebase_auth.js";
  import { templateHome } from "./templateHome.js";
