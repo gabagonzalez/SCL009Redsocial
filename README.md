@@ -11,7 +11,7 @@
 
 
 No existe una aplicación que contenga la información contenida en los muros del metro, pero si existe el interés en el caso que existiera dicha aplicación.
-![cutura-a un Metro](https://i.ibb.co/0snVfX9/logometrr.jpg)
+![cutura-a un Metro](https://i.ibb.co/6y96tyr/slogan.jpg)
 
 
 ------------------------------------------
