@@ -1,4 +1,4 @@
-import { loginGoogle } from "../../../assets/js/firebase_auth.js";
+import { loginGoogle } from "../js/firebase_auth.js";
 
 export const templateHome = () => {
 
