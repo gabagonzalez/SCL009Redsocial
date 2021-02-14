@@ -7,7 +7,7 @@ export const templateLogin = () => {
 
   document.getElementById("root").innerHTML = `
   <div class="demo-header">
-   <img src="https://i.ibb.co/M7ssZ9x/logoPano.png" class="img-fluid" alt="logo aplication" > 
+   <img src="./img/logoPano.png" class="img-fluid" alt="logo aplication" > 
  </div> 
 
  <h3 class ="paragraph-login">Inicia Sesión</h3>
